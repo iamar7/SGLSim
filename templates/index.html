@@ -1,0 +1,250 @@
+<!-- /SGLSim_Basic/templates/index1.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SGLSim</title>
+  <!-- Latest bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="{{url_for('static', filename='main.js')}}"></script>
+  </head>
+<style>
+.row {padding:10px;}
+
+.inputs {
+  display: none;
+}
+
+.foo:checked + .inputs {
+  display: initial;
+}
+table { width: 70%; }
+        table, th, td { border: solid 1px #DDD;
+            border-collapse: collapse; padding: 2px 3px; text-align: center;
+        }
+</style>
+<header class = "site-header">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{{ url_for('index')}}">SGLSim</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="{{ url_for('index')}}">Simple Glazing</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</header>
+<div class="container">
+  <div id="resultbox"></div>
+  <div class="form-group">
+    <form name="add_skills" id="add_skills">
+
+      <div class="container-fluid">
+             <div class="row">
+               <div class="col-sm-3">
+                <label for="register-form-name">Building Name</label>
+                <input type="text" id="request_name" name="request_name" value="Test Lab" class="form-control" style="width: 350px;"/>
+              </div>
+              <div class="col-sm-4">
+
+              </div>
+              <div class="col-sm-3">
+                <label>Location</label>
+                <select name="weather_file" class="form-control" id="weather_file" style="width: 350px;">
+
+                  <option value="Ahmedabad">Ahmedabad </option>
+                  <option value="Akola">Akola </option>
+                  <option value="Allahabad">Allahabad </option>
+                  <option value="Amritsar">Amritsar </option>
+                  <option value="Aurangabad">Aurangabad </option>
+                  <option value="Bangalore">Bangalore </option>
+                  <option value="Barmer">Barmer </option>
+                  <option value="Belgaum">Belgaum </option>
+                  <option value="Bhagalpur">Bhagalpur </option>
+                  <option value="Bhopal">Bhopal </option>
+                  <option value="Bhubneshwar">Bhubneshwar </option>
+                  <option value="Bikaner">Bikaner </option>
+                  <option value="Chennai">Chennai</option>
+                  <option value="Chirtadurg">Chirtadurg </option>
+                  <option value="Dehradun">Dehradun </option>
+                  <option value="Dibrugarh">Dibrugarh </option>
+                  <option value="Gorakhpur">Gorakhpur </option>
+                  <option value="Guwahati">Guwahati </option>
+                  <option value="Gwalior">Gwalior </option>
+                  <option value="Hissar">Hissar </option>
+                  <option value="Hyderabad" selected>Hyderabad </option>
+                  <option value="Imphal">Imphal </option>
+                  <option value="Indore">Indore </option>
+                  <option value="Jabalpur">Jabalpur </option>
+                  <option value="Jagdelpur">Jagdelpur </option>
+                  <option value="Jaipur">Jaipur </option>
+                  <option value="Jaisalmer">Jaisalmer </option>
+                  <option value="Jamnagar">Jamnagar </option>
+                  <option value="Jodhpur">Jodhpur </option>
+                  <option value="Jorhat">Jorhat </option>
+                  <option value="Kolkata">Kolkata </option>
+                  <option value="Kota">Kota </option>
+                  <option value="Kurnool">Kurnool </option>
+                  <option value="Lucknow">Lucknow </option>
+                  <option value="Mangalore">Mangalore </option>
+                  <option value="Mumbai">Mumbai </option>
+                  <option value="Nagpur">Nagpur </option>
+                  <option value="Nellore">Nellore </option>
+                  <option value="NewDelhi">New Delhi </option>
+                  <option value="Panjim">Panjim </option>
+                  <option value="Patna">Patna </option>
+                  <option value="Pune">Pune </option>
+                  <option value="Raipur">Raipur </option>
+                  <option value="Rajkot">Rajkot </option>
+                  <option value="Ramagundam">Ramagundam </option>
+                  <option value="Ranchi">Ranchi </option>
+                  <option value="Ratnagiri">Ratnagiri </option>
+                  <option value="Raxaul">Raxaul </option>
+                  <option value="Saharanpur">Saharanpur </option>
+                  <option value="Shillong">Shillong </option>
+                  <option value="Sholapur">Sholapur </option>
+                  <option value="Sundernagar">Sundernagar </option>
+                  <option value="Surat">Surat </option>
+                  <option value="Tezpur">Tezpur </option>
+                  <option value="Tiruchirapalli">Tiruchirapalli </option>
+                  <option value="Trivandram">Trivandram </option>
+                  <option value="Veraval">Veraval </option>
+                  <option value="Vishakhapatnam">Vishakhapatnam </option>
+
+                </select>
+              </div>
+            </div>
+          </div>
+
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-sm-3">
+                    <label >HVAC Details</label>
+                    <select name="hvac_type" id="hvac_type" class="form-control" style="width: 350px;">
+                    <option value="1" id="pthp">Window/Split air conditioner(PTHP)</option>
+                    <option value="2" id="ilas">Ideal Load Air System</option>
+                    <option value="3" id="ptac" selected>Packaged Terminal Air Conditioner(PTAC)</option>
+                    </select>
+                  </div>
+                  <div class="col-sm-4">
+
+                  </div>
+                  <div class="col-sm-3 ">
+                    <label for="register-form-password">Daylight Control</label>
+                    <select name="daylight_control" id="Daylight" class="form-control" style="width: 350px;">
+                      <option value="1" id="d_on" selected>ON</option>
+                      <option value="0" id="d_off">OFF</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-sm-3">
+                    <label >Building Type</label>
+                    <select name="building_type" id="building_type" class="form-control" style="width: 350px;">
+                    <option value="office" id="office">Office</option>
+                    <option value="residential" id="residential">Residential</option>
+                    </select>
+                  </div>
+                  <div class="col-sm-4">
+
+                  </div>
+                  <div class="col-sm-3">
+                    <label>Internal Blinds</label>
+                    <select name="blind_type" id="blind_type" class="form-control" style="width: 350px;">
+                    <option value="0" id="blind_off" selected>OFF</option>
+                    <option value="1" id="blind_on">ON</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-sm-3">
+                    <label for="register-form-name">Floor Area(sq m)</label>
+                    <input type="number" id="len" name="len" value="10" min = "10" class="form-control"  step="10" style="width: 350px;" required/>
+                  </div>
+                  <div class="col-sm-3" style="margin-left: 50px;">
+
+                  </div>
+                  <div class="col-sm-3" style="margin-left: 50px;">
+                    <label for="register-form-name">Height(m)</label>
+                    <input type="number" id="height" name="height" value="3" class="form-control"  step="0.5" style="width: 350px;" required/>
+                  </div>
+
+                </div>
+              </div>
+
+              <h3>Parametric Analysis Parameters</h3>
+
+              <div class="table-responsive">
+              <table class="table table-bordered table-striped " >
+                <tbody>
+                  <tr>
+
+                    <th  style="text-align: center;">Parameter</th>
+                    <th  style="text-align: center;">Min</th>
+                    <th  style="text-align: center;">Max</th>
+                    <th  style="text-align: center;">No.of values including Min</th>
+                  </tr>
+                </tbody>
+                <tbody>
+                  <tr>
+
+                    <td  style="text-align: center;">WWR</td>
+                    <td  style="text-align: center;"><input type="text" id="wwr_min" name="wwr_min" value="10" class="form-control" /></th>
+                    <td  style="text-align: center;"><input type="text" id="wwr_max" name="wwr_max" value="90" class="form-control" /></th>
+                    <td  style="text-align: center;"><input type="text" id="len_wwr" name="len_wwr" value="9" class="form-control" /></th>
+                  </tr>
+                </tbody>
+                <tbody>
+                  <tr>
+
+                    <td  style="text-align: center;">Orientation (degrees)</td>
+                    <td  style="text-align: center;"><input type="text" id="min_orientation" name="min_orientation" value="0" class="form-control" /></th>
+                    <td  style="text-align: center;"><input type="text" id="max_orientation" name="max_orientation" value="360" class="form-control" /></th>
+                    <td  style="text-align: center;"><input type="text" id="len_orientation" name="len_orientation" value="4" class="form-control" /></th>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+      <table class="table table-bordered table-striped select-table" id="InputsWrapper">
+        <tbody>
+          <tr>
+            <!-- <th  style="text-align: center;">Glazing No</th> -->
+            <th  style="text-align: center;">U Value</th>
+            <th  style="text-align: center;">SHGC</th>
+            <th  style="text-align: center;">VLT</th>
+            <th  style="text-align: center;">Action</th>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <!-- <td  style="text-align: center;">1</td> -->
+            <td  style="text-align: center;"><input type="text" id="uValue" name="uvalue[]" value="1.812" class="form-control" /></td>
+            <td  style="text-align: center;"><input type="text" id="shgc" name="shgc[]" value="0.227" class="form-control" /></td>
+            <td  style="text-align: center;"><input type="text" id="vlt" name="vlt[]" value="0.229" class="form-control" /></td>
+            <td  style="text-align: center;"><button type="button small" name="add" id="AddMoreFileBox" class="btn btn-success">Add Glazing</button></td>
+          </tr>
+        </tbody>
+      </table>
+      <br/>
+      <input type="button" name="submit" id="submit" class="btn btn-info" value="Submit" />
+    </form>
+  </div>
+</div>
+</body>
+</html>
