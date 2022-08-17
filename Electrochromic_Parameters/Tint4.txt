@@ -1,0 +1,1766 @@
+MaterialProperty:GlazingSpectralData,
+    Dark_Tint,    !- Name
+    0.3,                      !- Wavelength 1
+    0,                        !- Transmittance 1
+    0.055,                    !- Front Reflectance 1
+    0.076,                    !- Back Reflectance 1
+    0.305,                    !- Wavelength 2
+    0,                        !- Transmittance 2
+    0.055,                    !- Front Reflectance 2
+    0.071,                    !- Back Reflectance 2
+    0.31,                     !- Wavelength 3
+    0,                        !- Transmittance 3
+    0.054,                    !- Front Reflectance 3
+    0.066,                    !- Back Reflectance 3
+    0.315,                    !- Wavelength 4
+    0,                        !- Transmittance 4
+    0.055,                    !- Front Reflectance 4
+    0.062,                    !- Back Reflectance 4
+    0.32,                     !- Wavelength 5
+    0,                        !- Transmittance 5
+    0.057,                    !- Front Reflectance 5
+    0.058,                    !- Back Reflectance 5
+    0.325,                    !- Wavelength 6
+    0,                        !- Transmittance 6
+    0.063,                    !- Front Reflectance 6
+    0.055,                    !- Back Reflectance 6
+    0.33,                     !- Wavelength 7
+    0,                        !- Transmittance 7
+    0.071,                    !- Front Reflectance 7
+    0.051,                    !- Back Reflectance 7
+    0.335,                    !- Wavelength 8
+    0,                        !- Transmittance 8
+    0.082,                    !- Front Reflectance 8
+    0.047,                    !- Back Reflectance 8
+    0.34,                     !- Wavelength 9
+    0,                        !- Transmittance 9
+    0.093,                    !- Front Reflectance 9
+    0.042,                    !- Back Reflectance 9
+    0.345,                    !- Wavelength 10
+    0,                        !- Transmittance 10
+    0.104,                    !- Front Reflectance 10
+    0.037,                    !- Back Reflectance 10
+    0.35,                     !- Wavelength 11
+    0,                        !- Transmittance 11
+    0.113,                    !- Front Reflectance 11
+    0.033,                    !- Back Reflectance 11
+    0.355,                    !- Wavelength 12
+    0,                        !- Transmittance 12
+    0.12,                     !- Front Reflectance 12
+    0.031,                    !- Back Reflectance 12
+    0.36,                     !- Wavelength 13
+    0,                        !- Transmittance 13
+    0.123,                    !- Front Reflectance 13
+    0.031,                    !- Back Reflectance 13
+    0.365,                    !- Wavelength 14
+    0,                        !- Transmittance 14
+    0.123,                    !- Front Reflectance 14
+    0.032,                    !- Back Reflectance 14
+    0.37,                     !- Wavelength 15
+    0,                        !- Transmittance 15
+    0.123,                    !- Front Reflectance 15
+    0.032,                    !- Back Reflectance 15
+    0.375,                    !- Wavelength 16
+    0,                        !- Transmittance 16
+    0.125,                    !- Front Reflectance 16
+    0.03,                     !- Back Reflectance 16
+    0.38,                     !- Wavelength 17
+    0.002,                    !- Transmittance 17
+    0.127,                    !- Front Reflectance 17
+    0.025,                    !- Back Reflectance 17
+    0.385,                    !- Wavelength 18
+    0.004,                    !- Transmittance 18
+    0.129,                    !- Front Reflectance 18
+    0.018,                    !- Back Reflectance 18
+    0.39,                     !- Wavelength 19
+    0.007,                    !- Transmittance 19
+    0.13,                     !- Front Reflectance 19
+    0.012,                    !- Back Reflectance 19
+    0.395,                    !- Wavelength 20
+    0.01,                     !- Transmittance 20
+    0.131,                    !- Front Reflectance 20
+    0.008,                    !- Back Reflectance 20
+    0.4,                      !- Wavelength 21
+    0.013,                    !- Transmittance 21
+    0.133,                    !- Front Reflectance 21
+    0.007,                    !- Back Reflectance 21
+    0.405,                    !- Wavelength 22
+    0.015,                    !- Transmittance 22
+    0.137,                    !- Front Reflectance 22
+    0.009,                    !- Back Reflectance 22
+    0.41,                     !- Wavelength 23
+    0.016,                    !- Transmittance 23
+    0.14,                     !- Front Reflectance 23
+    0.014,                    !- Back Reflectance 23
+    0.415,                    !- Wavelength 24
+    0.016,                    !- Transmittance 24
+    0.144,                    !- Front Reflectance 24
+    0.019,                    !- Back Reflectance 24
+    0.42,                     !- Wavelength 25
+    0.017,                    !- Transmittance 25
+    0.146,                    !- Front Reflectance 25
+    0.023,                    !- Back Reflectance 25
+    0.425,                    !- Wavelength 26
+    0.017,                    !- Transmittance 26
+    0.146,                    !- Front Reflectance 26
+    0.025,                    !- Back Reflectance 26
+    0.43,                     !- Wavelength 27
+    0.018,                    !- Transmittance 27
+    0.143,                    !- Front Reflectance 27
+    0.025,                    !- Back Reflectance 27
+    0.435,                    !- Wavelength 28
+    0.018,                    !- Transmittance 28
+    0.137,                    !- Front Reflectance 28
+    0.023,                    !- Back Reflectance 28
+    0.44,                     !- Wavelength 29
+    0.019,                    !- Transmittance 29
+    0.131,                    !- Front Reflectance 29
+    0.02,                     !- Back Reflectance 29
+    0.445,                    !- Wavelength 30
+    0.019,                    !- Transmittance 30
+    0.127,                    !- Front Reflectance 30
+    0.015,                    !- Back Reflectance 30
+    0.45,                     !- Wavelength 31
+    0.019,                    !- Transmittance 31
+    0.126,                    !- Front Reflectance 31
+    0.011,                    !- Back Reflectance 31
+    0.455,                    !- Wavelength 32
+    0.019,                    !- Transmittance 32
+    0.128,                    !- Front Reflectance 32
+    0.007,                    !- Back Reflectance 32
+    0.46,                     !- Wavelength 33
+    0.019,                    !- Transmittance 33
+    0.13,                     !- Front Reflectance 33
+    0.004,                    !- Back Reflectance 33
+    0.465,                    !- Wavelength 34
+    0.019,                    !- Transmittance 34
+    0.13,                     !- Front Reflectance 34
+    0.003,                    !- Back Reflectance 34
+    0.47,                     !- Wavelength 35
+    0.019,                    !- Transmittance 35
+    0.128,                    !- Front Reflectance 35
+    0.003,                    !- Back Reflectance 35
+    0.475,                    !- Wavelength 36
+    0.019,                    !- Transmittance 36
+    0.125,                    !- Front Reflectance 36
+    0.005,                    !- Back Reflectance 36
+    0.48,                     !- Wavelength 37
+    0.019,                    !- Transmittance 37
+    0.122,                    !- Front Reflectance 37
+    0.008,                    !- Back Reflectance 37
+    0.485,                    !- Wavelength 38
+    0.018,                    !- Transmittance 38
+    0.121,                    !- Front Reflectance 38
+    0.01,                     !- Back Reflectance 38
+    0.49,                     !- Wavelength 39
+    0.018,                    !- Transmittance 39
+    0.121,                    !- Front Reflectance 39
+    0.013,                    !- Back Reflectance 39
+    0.495,                    !- Wavelength 40
+    0.017,                    !- Transmittance 40
+    0.124,                    !- Front Reflectance 40
+    0.014,                    !- Back Reflectance 40
+    0.5,                      !- Wavelength 41
+    0.017,                    !- Transmittance 41
+    0.127,                    !- Front Reflectance 41
+    0.015,                    !- Back Reflectance 41
+    0.505,                    !- Wavelength 42
+    0.016,                    !- Transmittance 42
+    0.13,                     !- Front Reflectance 42
+    0.015,                    !- Back Reflectance 42
+    0.51,                     !- Wavelength 43
+    0.015,                    !- Transmittance 43
+    0.132,                    !- Front Reflectance 43
+    0.014,                    !- Back Reflectance 43
+    0.515,                    !- Wavelength 44
+    0.015,                    !- Transmittance 44
+    0.133,                    !- Front Reflectance 44
+    0.013,                    !- Back Reflectance 44
+    0.52,                     !- Wavelength 45
+    0.014,                    !- Transmittance 45
+    0.132,                    !- Front Reflectance 45
+    0.011,                    !- Back Reflectance 45
+    0.525,                    !- Wavelength 46
+    0.014,                    !- Transmittance 46
+    0.129,                    !- Front Reflectance 46
+    0.009,                    !- Back Reflectance 46
+    0.53,                     !- Wavelength 47
+    0.013,                    !- Transmittance 47
+    0.126,                    !- Front Reflectance 47
+    0.007,                    !- Back Reflectance 47
+    0.535,                    !- Wavelength 48
+    0.013,                    !- Transmittance 48
+    0.122,                    !- Front Reflectance 48
+    0.005,                    !- Back Reflectance 48
+    0.54,                     !- Wavelength 49
+    0.012,                    !- Transmittance 49
+    0.118,                    !- Front Reflectance 49
+    0.004,                    !- Back Reflectance 49
+    0.545,                    !- Wavelength 50
+    0.012,                    !- Transmittance 50
+    0.115,                    !- Front Reflectance 50
+    0.003,                    !- Back Reflectance 50
+    0.55,                     !- Wavelength 51
+    0.011,                    !- Transmittance 51
+    0.111,                    !- Front Reflectance 51
+    0.003,                    !- Back Reflectance 51
+    0.555,                    !- Wavelength 52
+    0.011,                    !- Transmittance 52
+    0.108,                    !- Front Reflectance 52
+    0.003,                    !- Back Reflectance 52
+    0.56,                     !- Wavelength 53
+    0.01,                     !- Transmittance 53
+    0.106,                    !- Front Reflectance 53
+    0.003,                    !- Back Reflectance 53
+    0.565,                    !- Wavelength 54
+    0.01,                     !- Transmittance 54
+    0.103,                    !- Front Reflectance 54
+    0.005,                    !- Back Reflectance 54
+    0.57,                     !- Wavelength 55
+    0.009,                    !- Transmittance 55
+    0.101,                    !- Front Reflectance 55
+    0.006,                    !- Back Reflectance 55
+    0.575,                    !- Wavelength 56
+    0.009,                    !- Transmittance 56
+    0.099,                    !- Front Reflectance 56
+    0.008,                    !- Back Reflectance 56
+    0.58,                     !- Wavelength 57
+    0.008,                    !- Transmittance 57
+    0.098,                    !- Front Reflectance 57
+    0.011,                    !- Back Reflectance 57
+    0.585,                    !- Wavelength 58
+    0.008,                    !- Transmittance 58
+    0.098,                    !- Front Reflectance 58
+    0.014,                    !- Back Reflectance 58
+    0.59,                     !- Wavelength 59
+    0.008,                    !- Transmittance 59
+    0.098,                    !- Front Reflectance 59
+    0.017,                    !- Back Reflectance 59
+    0.595,                    !- Wavelength 60
+    0.007,                    !- Transmittance 60
+    0.099,                    !- Front Reflectance 60
+    0.02,                     !- Back Reflectance 60
+    0.6,                      !- Wavelength 61
+    0.007,                    !- Transmittance 61
+    0.1,                      !- Front Reflectance 61
+    0.024,                    !- Back Reflectance 61
+    0.605,                    !- Wavelength 62
+    0.006,                    !- Transmittance 62
+    0.102,                    !- Front Reflectance 62
+    0.028,                    !- Back Reflectance 62
+    0.61,                     !- Wavelength 63
+    0.006,                    !- Transmittance 63
+    0.104,                    !- Front Reflectance 63
+    0.032,                    !- Back Reflectance 63
+    0.615,                    !- Wavelength 64
+    0.005,                    !- Transmittance 64
+    0.106,                    !- Front Reflectance 64
+    0.035,                    !- Back Reflectance 64
+    0.62,                     !- Wavelength 65
+    0.005,                    !- Transmittance 65
+    0.109,                    !- Front Reflectance 65
+    0.038,                    !- Back Reflectance 65
+    0.625,                    !- Wavelength 66
+    0.005,                    !- Transmittance 66
+    0.111,                    !- Front Reflectance 66
+    0.041,                    !- Back Reflectance 66
+    0.63,                     !- Wavelength 67
+    0.004,                    !- Transmittance 67
+    0.112,                    !- Front Reflectance 67
+    0.043,                    !- Back Reflectance 67
+    0.635,                    !- Wavelength 68
+    0.004,                    !- Transmittance 68
+    0.114,                    !- Front Reflectance 68
+    0.044,                    !- Back Reflectance 68
+    0.64,                     !- Wavelength 69
+    0.004,                    !- Transmittance 69
+    0.115,                    !- Front Reflectance 69
+    0.044,                    !- Back Reflectance 69
+    0.645,                    !- Wavelength 70
+    0.004,                    !- Transmittance 70
+    0.116,                    !- Front Reflectance 70
+    0.043,                    !- Back Reflectance 70
+    0.65,                     !- Wavelength 71
+    0.003,                    !- Transmittance 71
+    0.116,                    !- Front Reflectance 71
+    0.041,                    !- Back Reflectance 71
+    0.655,                    !- Wavelength 72
+    0.003,                    !- Transmittance 72
+    0.116,                    !- Front Reflectance 72
+    0.038,                    !- Back Reflectance 72
+    0.66,                     !- Wavelength 73
+    0.003,                    !- Transmittance 73
+    0.115,                    !- Front Reflectance 73
+    0.035,                    !- Back Reflectance 73
+    0.665,                    !- Wavelength 74
+    0.003,                    !- Transmittance 74
+    0.113,                    !- Front Reflectance 74
+    0.03,                     !- Back Reflectance 74
+    0.67,                     !- Wavelength 75
+    0.003,                    !- Transmittance 75
+    0.112,                    !- Front Reflectance 75
+    0.025,                    !- Back Reflectance 75
+    0.675,                    !- Wavelength 76
+    0.002,                    !- Transmittance 76
+    0.11,                     !- Front Reflectance 76
+    0.02,                     !- Back Reflectance 76
+    0.68,                     !- Wavelength 77
+    0.002,                    !- Transmittance 77
+    0.107,                    !- Front Reflectance 77
+    0.016,                    !- Back Reflectance 77
+    0.685,                    !- Wavelength 78
+    0.002,                    !- Transmittance 78
+    0.105,                    !- Front Reflectance 78
+    0.011,                    !- Back Reflectance 78
+    0.69,                     !- Wavelength 79
+    0.002,                    !- Transmittance 79
+    0.102,                    !- Front Reflectance 79
+    0.008,                    !- Back Reflectance 79
+    0.695,                    !- Wavelength 80
+    0.002,                    !- Transmittance 80
+    0.099,                    !- Front Reflectance 80
+    0.006,                    !- Back Reflectance 80
+    0.7,                      !- Wavelength 81
+    0.002,                    !- Transmittance 81
+    0.096,                    !- Front Reflectance 81
+    0.006,                    !- Back Reflectance 81
+    0.705,                    !- Wavelength 82
+    0.002,                    !- Transmittance 82
+    0.094,                    !- Front Reflectance 82
+    0.007,                    !- Back Reflectance 82
+    0.71,                     !- Wavelength 83
+    0.002,                    !- Transmittance 83
+    0.091,                    !- Front Reflectance 83
+    0.011,                    !- Back Reflectance 83
+    0.715,                    !- Wavelength 84
+    0.002,                    !- Transmittance 84
+    0.089,                    !- Front Reflectance 84
+    0.016,                    !- Back Reflectance 84
+    0.72,                     !- Wavelength 85
+    0.001,                    !- Transmittance 85
+    0.086,                    !- Front Reflectance 85
+    0.023,                    !- Back Reflectance 85
+    0.725,                    !- Wavelength 86
+    0.001,                    !- Transmittance 86
+    0.084,                    !- Front Reflectance 86
+    0.032,                    !- Back Reflectance 86
+    0.73,                     !- Wavelength 87
+    0.001,                    !- Transmittance 87
+    0.082,                    !- Front Reflectance 87
+    0.043,                    !- Back Reflectance 87
+    0.735,                    !- Wavelength 88
+    0.001,                    !- Transmittance 88
+    0.08,                     !- Front Reflectance 88
+    0.054,                    !- Back Reflectance 88
+    0.74,                     !- Wavelength 89
+    0.001,                    !- Transmittance 89
+    0.079,                    !- Front Reflectance 89
+    0.067,                    !- Back Reflectance 89
+    0.745,                    !- Wavelength 90
+    0.001,                    !- Transmittance 90
+    0.078,                    !- Front Reflectance 90
+    0.08,                     !- Back Reflectance 90
+    0.75,                     !- Wavelength 91
+    0.001,                    !- Transmittance 91
+    0.077,                    !- Front Reflectance 91
+    0.093,                    !- Back Reflectance 91
+    0.755,                    !- Wavelength 92
+    0.001,                    !- Transmittance 92
+    0.076,                    !- Front Reflectance 92
+    0.106,                    !- Back Reflectance 92
+    0.76,                     !- Wavelength 93
+    0.001,                    !- Transmittance 93
+    0.075,                    !- Front Reflectance 93
+    0.119,                    !- Back Reflectance 93
+    0.765,                    !- Wavelength 94
+    0.001,                    !- Transmittance 94
+    0.075,                    !- Front Reflectance 94
+    0.13,                     !- Back Reflectance 94
+    0.77,                     !- Wavelength 95
+    0.001,                    !- Transmittance 95
+    0.074,                    !- Front Reflectance 95
+    0.141,                    !- Back Reflectance 95
+    0.775,                    !- Wavelength 96
+    0.001,                    !- Transmittance 96
+    0.074,                    !- Front Reflectance 96
+    0.151,                    !- Back Reflectance 96
+    0.78,                     !- Wavelength 97
+    0.001,                    !- Transmittance 97
+    0.074,                    !- Front Reflectance 97
+    0.159,                    !- Back Reflectance 97
+    0.785,                    !- Wavelength 98
+    0.001,                    !- Transmittance 98
+    0.074,                    !- Front Reflectance 98
+    0.166,                    !- Back Reflectance 98
+    0.79,                     !- Wavelength 99
+    0.001,                    !- Transmittance 99
+    0.074,                    !- Front Reflectance 99
+    0.172,                    !- Back Reflectance 99
+    0.795,                    !- Wavelength 100
+    0,                        !- Transmittance 100
+    0.074,                    !- Front Reflectance 100
+    0.176,                    !- Back Reflectance 100
+    0.8,                      !- Wavelength 101
+    0,                        !- Transmittance 101
+    0.073,                    !- Front Reflectance 101
+    0.179,                    !- Back Reflectance 101
+    0.805,                    !- Wavelength 102
+    0,                        !- Transmittance 102
+    0.073,                    !- Front Reflectance 102
+    0.18,                     !- Back Reflectance 102
+    0.81,                     !- Wavelength 103
+    0,                        !- Transmittance 103
+    0.073,                    !- Front Reflectance 103
+    0.18,                     !- Back Reflectance 103
+    0.815,                    !- Wavelength 104
+    0,                        !- Transmittance 104
+    0.073,                    !- Front Reflectance 104
+    0.178,                    !- Back Reflectance 104
+    0.82,                     !- Wavelength 105
+    0,                        !- Transmittance 105
+    0.074,                    !- Front Reflectance 105
+    0.176,                    !- Back Reflectance 105
+    0.825,                    !- Wavelength 106
+    0,                        !- Transmittance 106
+    0.074,                    !- Front Reflectance 106
+    0.172,                    !- Back Reflectance 106
+    0.83,                     !- Wavelength 107
+    0.001,                    !- Transmittance 107
+    0.074,                    !- Front Reflectance 107
+    0.166,                    !- Back Reflectance 107
+    0.835,                    !- Wavelength 108
+    0,                        !- Transmittance 108
+    0.073,                    !- Front Reflectance 108
+    0.159,                    !- Back Reflectance 108
+    0.84,                     !- Wavelength 109
+    0,                        !- Transmittance 109
+    0.072,                    !- Front Reflectance 109
+    0.149,                    !- Back Reflectance 109
+    0.845,                    !- Wavelength 110
+    0,                        !- Transmittance 110
+    0.071,                    !- Front Reflectance 110
+    0.138,                    !- Back Reflectance 110
+    0.85,                     !- Wavelength 111
+    0,                        !- Transmittance 111
+    0.07,                     !- Front Reflectance 111
+    0.126,                    !- Back Reflectance 111
+    0.855,                    !- Wavelength 112
+    0,                        !- Transmittance 112
+    0.07,                     !- Front Reflectance 112
+    0.113,                    !- Back Reflectance 112
+    0.86,                     !- Wavelength 113
+    0,                        !- Transmittance 113
+    0.069,                    !- Front Reflectance 113
+    0.101,                    !- Back Reflectance 113
+    0.865,                    !- Wavelength 114
+    0,                        !- Transmittance 114
+    0.069,                    !- Front Reflectance 114
+    0.09,                     !- Back Reflectance 114
+    0.87,                     !- Wavelength 115
+    0,                        !- Transmittance 115
+    0.069,                    !- Front Reflectance 115
+    0.08,                     !- Back Reflectance 115
+    0.875,                    !- Wavelength 116
+    0,                        !- Transmittance 116
+    0.069,                    !- Front Reflectance 116
+    0.071,                    !- Back Reflectance 116
+    0.88,                     !- Wavelength 117
+    0,                        !- Transmittance 117
+    0.068,                    !- Front Reflectance 117
+    0.062,                    !- Back Reflectance 117
+    0.885,                    !- Wavelength 118
+    0,                        !- Transmittance 118
+    0.067,                    !- Front Reflectance 118
+    0.053,                    !- Back Reflectance 118
+    0.89,                     !- Wavelength 119
+    0,                        !- Transmittance 119
+    0.067,                    !- Front Reflectance 119
+    0.045,                    !- Back Reflectance 119
+    0.895,                    !- Wavelength 120
+    0,                        !- Transmittance 120
+    0.066,                    !- Front Reflectance 120
+    0.037,                    !- Back Reflectance 120
+    0.9,                      !- Wavelength 121
+    0,                        !- Transmittance 121
+    0.066,                    !- Front Reflectance 121
+    0.03,                     !- Back Reflectance 121
+    0.905,                    !- Wavelength 122
+    0,                        !- Transmittance 122
+    0.066,                    !- Front Reflectance 122
+    0.025,                    !- Back Reflectance 122
+    0.91,                     !- Wavelength 123
+    0,                        !- Transmittance 123
+    0.065,                    !- Front Reflectance 123
+    0.02,                     !- Back Reflectance 123
+    0.915,                    !- Wavelength 124
+    0,                        !- Transmittance 124
+    0.065,                    !- Front Reflectance 124
+    0.016,                    !- Back Reflectance 124
+    0.92,                     !- Wavelength 125
+    0,                        !- Transmittance 125
+    0.065,                    !- Front Reflectance 125
+    0.012,                    !- Back Reflectance 125
+    0.925,                    !- Wavelength 126
+    0,                        !- Transmittance 126
+    0.065,                    !- Front Reflectance 126
+    0.009,                    !- Back Reflectance 126
+    0.93,                     !- Wavelength 127
+    0,                        !- Transmittance 127
+    0.064,                    !- Front Reflectance 127
+    0.007,                    !- Back Reflectance 127
+    0.935,                    !- Wavelength 128
+    0,                        !- Transmittance 128
+    0.064,                    !- Front Reflectance 128
+    0.006,                    !- Back Reflectance 128
+    0.94,                     !- Wavelength 129
+    0,                        !- Transmittance 129
+    0.064,                    !- Front Reflectance 129
+    0.006,                    !- Back Reflectance 129
+    0.945,                    !- Wavelength 130
+    0,                        !- Transmittance 130
+    0.063,                    !- Front Reflectance 130
+    0.006,                    !- Back Reflectance 130
+    0.95,                     !- Wavelength 131
+    0,                        !- Transmittance 131
+    0.063,                    !- Front Reflectance 131
+    0.007,                    !- Back Reflectance 131
+    0.955,                    !- Wavelength 132
+    0,                        !- Transmittance 132
+    0.062,                    !- Front Reflectance 132
+    0.009,                    !- Back Reflectance 132
+    0.96,                     !- Wavelength 133
+    0,                        !- Transmittance 133
+    0.062,                    !- Front Reflectance 133
+    0.011,                    !- Back Reflectance 133
+    0.965,                    !- Wavelength 134
+    0,                        !- Transmittance 134
+    0.062,                    !- Front Reflectance 134
+    0.012,                    !- Back Reflectance 134
+    0.97,                     !- Wavelength 135
+    0,                        !- Transmittance 135
+    0.062,                    !- Front Reflectance 135
+    0.015,                    !- Back Reflectance 135
+    0.975,                    !- Wavelength 136
+    0,                        !- Transmittance 136
+    0.062,                    !- Front Reflectance 136
+    0.017,                    !- Back Reflectance 136
+    0.98,                     !- Wavelength 137
+    0,                        !- Transmittance 137
+    0.062,                    !- Front Reflectance 137
+    0.019,                    !- Back Reflectance 137
+    0.985,                    !- Wavelength 138
+    0,                        !- Transmittance 138
+    0.062,                    !- Front Reflectance 138
+    0.021,                    !- Back Reflectance 138
+    0.99,                     !- Wavelength 139
+    0,                        !- Transmittance 139
+    0.062,                    !- Front Reflectance 139
+    0.023,                    !- Back Reflectance 139
+    0.995,                    !- Wavelength 140
+    0,                        !- Transmittance 140
+    0.062,                    !- Front Reflectance 140
+    0.025,                    !- Back Reflectance 140
+    1,                        !- Wavelength 141
+    0,                        !- Transmittance 141
+    0.062,                    !- Front Reflectance 141
+    0.027,                    !- Back Reflectance 141
+    1.005,                    !- Wavelength 142
+    0,                        !- Transmittance 142
+    0.062,                    !- Front Reflectance 142
+    0.029,                    !- Back Reflectance 142
+    1.01,                     !- Wavelength 143
+    0,                        !- Transmittance 143
+    0.062,                    !- Front Reflectance 143
+    0.03,                     !- Back Reflectance 143
+    1.015,                    !- Wavelength 144
+    0,                        !- Transmittance 144
+    0.061,                    !- Front Reflectance 144
+    0.032,                    !- Back Reflectance 144
+    1.02,                     !- Wavelength 145
+    0,                        !- Transmittance 145
+    0.061,                    !- Front Reflectance 145
+    0.034,                    !- Back Reflectance 145
+    1.025,                    !- Wavelength 146
+    0,                        !- Transmittance 146
+    0.062,                    !- Front Reflectance 146
+    0.036,                    !- Back Reflectance 146
+    1.03,                     !- Wavelength 147
+    0,                        !- Transmittance 147
+    0.062,                    !- Front Reflectance 147
+    0.038,                    !- Back Reflectance 147
+    1.035,                    !- Wavelength 148
+    0,                        !- Transmittance 148
+    0.062,                    !- Front Reflectance 148
+    0.039,                    !- Back Reflectance 148
+    1.04,                     !- Wavelength 149
+    0,                        !- Transmittance 149
+    0.062,                    !- Front Reflectance 149
+    0.042,                    !- Back Reflectance 149
+    1.045,                    !- Wavelength 150
+    0,                        !- Transmittance 150
+    0.062,                    !- Front Reflectance 150
+    0.044,                    !- Back Reflectance 150
+    1.05,                     !- Wavelength 151
+    0,                        !- Transmittance 151
+    0.062,                    !- Front Reflectance 151
+    0.047,                    !- Back Reflectance 151
+    1.055,                    !- Wavelength 152
+    0,                        !- Transmittance 152
+    0.062,                    !- Front Reflectance 152
+    0.05,                     !- Back Reflectance 152
+    1.06,                     !- Wavelength 153
+    0,                        !- Transmittance 153
+    0.062,                    !- Front Reflectance 153
+    0.053,                    !- Back Reflectance 153
+    1.065,                    !- Wavelength 154
+    0,                        !- Transmittance 154
+    0.062,                    !- Front Reflectance 154
+    0.057,                    !- Back Reflectance 154
+    1.07,                     !- Wavelength 155
+    0,                        !- Transmittance 155
+    0.062,                    !- Front Reflectance 155
+    0.06,                     !- Back Reflectance 155
+    1.075,                    !- Wavelength 156
+    0,                        !- Transmittance 156
+    0.062,                    !- Front Reflectance 156
+    0.065,                    !- Back Reflectance 156
+    1.08,                     !- Wavelength 157
+    0,                        !- Transmittance 157
+    0.062,                    !- Front Reflectance 157
+    0.07,                     !- Back Reflectance 157
+    1.085,                    !- Wavelength 158
+    0,                        !- Transmittance 158
+    0.061,                    !- Front Reflectance 158
+    0.075,                    !- Back Reflectance 158
+    1.09,                     !- Wavelength 159
+    0,                        !- Transmittance 159
+    0.061,                    !- Front Reflectance 159
+    0.08,                     !- Back Reflectance 159
+    1.095,                    !- Wavelength 160
+    0,                        !- Transmittance 160
+    0.061,                    !- Front Reflectance 160
+    0.087,                    !- Back Reflectance 160
+    1.1,                      !- Wavelength 161
+    0,                        !- Transmittance 161
+    0.062,                    !- Front Reflectance 161
+    0.093,                    !- Back Reflectance 161
+    1.105,                    !- Wavelength 162
+    0,                        !- Transmittance 162
+    0.061,                    !- Front Reflectance 162
+    0.1,                      !- Back Reflectance 162
+    1.11,                     !- Wavelength 163
+    0,                        !- Transmittance 163
+    0.061,                    !- Front Reflectance 163
+    0.107,                    !- Back Reflectance 163
+    1.115,                    !- Wavelength 164
+    0,                        !- Transmittance 164
+    0.061,                    !- Front Reflectance 164
+    0.114,                    !- Back Reflectance 164
+    1.12,                     !- Wavelength 165
+    0,                        !- Transmittance 165
+    0.06,                     !- Front Reflectance 165
+    0.121,                    !- Back Reflectance 165
+    1.125,                    !- Wavelength 166
+    0,                        !- Transmittance 166
+    0.06,                     !- Front Reflectance 166
+    0.129,                    !- Back Reflectance 166
+    1.13,                     !- Wavelength 167
+    0,                        !- Transmittance 167
+    0.06,                     !- Front Reflectance 167
+    0.137,                    !- Back Reflectance 167
+    1.135,                    !- Wavelength 168
+    0,                        !- Transmittance 168
+    0.06,                     !- Front Reflectance 168
+    0.145,                    !- Back Reflectance 168
+    1.14,                     !- Wavelength 169
+    0,                        !- Transmittance 169
+    0.06,                     !- Front Reflectance 169
+    0.153,                    !- Back Reflectance 169
+    1.145,                    !- Wavelength 170
+    0,                        !- Transmittance 170
+    0.06,                     !- Front Reflectance 170
+    0.161,                    !- Back Reflectance 170
+    1.15,                     !- Wavelength 171
+    0,                        !- Transmittance 171
+    0.06,                     !- Front Reflectance 171
+    0.168,                    !- Back Reflectance 171
+    1.155,                    !- Wavelength 172
+    0,                        !- Transmittance 172
+    0.06,                     !- Front Reflectance 172
+    0.175,                    !- Back Reflectance 172
+    1.16,                     !- Wavelength 173
+    0,                        !- Transmittance 173
+    0.06,                     !- Front Reflectance 173
+    0.182,                    !- Back Reflectance 173
+    1.165,                    !- Wavelength 174
+    0,                        !- Transmittance 174
+    0.06,                     !- Front Reflectance 174
+    0.189,                    !- Back Reflectance 174
+    1.17,                     !- Wavelength 175
+    0,                        !- Transmittance 175
+    0.061,                    !- Front Reflectance 175
+    0.196,                    !- Back Reflectance 175
+    1.175,                    !- Wavelength 176
+    0,                        !- Transmittance 176
+    0.061,                    !- Front Reflectance 176
+    0.202,                    !- Back Reflectance 176
+    1.18,                     !- Wavelength 177
+    0,                        !- Transmittance 177
+    0.061,                    !- Front Reflectance 177
+    0.208,                    !- Back Reflectance 177
+    1.185,                    !- Wavelength 178
+    0,                        !- Transmittance 178
+    0.061,                    !- Front Reflectance 178
+    0.213,                    !- Back Reflectance 178
+    1.19,                     !- Wavelength 179
+    0,                        !- Transmittance 179
+    0.061,                    !- Front Reflectance 179
+    0.218,                    !- Back Reflectance 179
+    1.195,                    !- Wavelength 180
+    0,                        !- Transmittance 180
+    0.061,                    !- Front Reflectance 180
+    0.222,                    !- Back Reflectance 180
+    1.2,                      !- Wavelength 181
+    0,                        !- Transmittance 181
+    0.062,                    !- Front Reflectance 181
+    0.227,                    !- Back Reflectance 181
+    1.205,                    !- Wavelength 182
+    0,                        !- Transmittance 182
+    0.063,                    !- Front Reflectance 182
+    0.231,                    !- Back Reflectance 182
+    1.21,                     !- Wavelength 183
+    0,                        !- Transmittance 183
+    0.064,                    !- Front Reflectance 183
+    0.234,                    !- Back Reflectance 183
+    1.215,                    !- Wavelength 184
+    0,                        !- Transmittance 184
+    0.065,                    !- Front Reflectance 184
+    0.237,                    !- Back Reflectance 184
+    1.22,                     !- Wavelength 185
+    0,                        !- Transmittance 185
+    0.066,                    !- Front Reflectance 185
+    0.241,                    !- Back Reflectance 185
+    1.225,                    !- Wavelength 186
+    0,                        !- Transmittance 186
+    0.068,                    !- Front Reflectance 186
+    0.243,                    !- Back Reflectance 186
+    1.23,                     !- Wavelength 187
+    0,                        !- Transmittance 187
+    0.07,                     !- Front Reflectance 187
+    0.245,                    !- Back Reflectance 187
+    1.235,                    !- Wavelength 188
+    0,                        !- Transmittance 188
+    0.072,                    !- Front Reflectance 188
+    0.247,                    !- Back Reflectance 188
+    1.24,                     !- Wavelength 189
+    0,                        !- Transmittance 189
+    0.074,                    !- Front Reflectance 189
+    0.248,                    !- Back Reflectance 189
+    1.245,                    !- Wavelength 190
+    0,                        !- Transmittance 190
+    0.077,                    !- Front Reflectance 190
+    0.249,                    !- Back Reflectance 190
+    1.25,                     !- Wavelength 191
+    0,                        !- Transmittance 191
+    0.079,                    !- Front Reflectance 191
+    0.25,                     !- Back Reflectance 191
+    1.255,                    !- Wavelength 192
+    0,                        !- Transmittance 192
+    0.082,                    !- Front Reflectance 192
+    0.251,                    !- Back Reflectance 192
+    1.26,                     !- Wavelength 193
+    0,                        !- Transmittance 193
+    0.085,                    !- Front Reflectance 193
+    0.251,                    !- Back Reflectance 193
+    1.265,                    !- Wavelength 194
+    0,                        !- Transmittance 194
+    0.088,                    !- Front Reflectance 194
+    0.251,                    !- Back Reflectance 194
+    1.27,                     !- Wavelength 195
+    0,                        !- Transmittance 195
+    0.091,                    !- Front Reflectance 195
+    0.252,                    !- Back Reflectance 195
+    1.275,                    !- Wavelength 196
+    0,                        !- Transmittance 196
+    0.094,                    !- Front Reflectance 196
+    0.252,                    !- Back Reflectance 196
+    1.28,                     !- Wavelength 197
+    0,                        !- Transmittance 197
+    0.098,                    !- Front Reflectance 197
+    0.252,                    !- Back Reflectance 197
+    1.285,                    !- Wavelength 198
+    0,                        !- Transmittance 198
+    0.101,                    !- Front Reflectance 198
+    0.251,                    !- Back Reflectance 198
+    1.29,                     !- Wavelength 199
+    0,                        !- Transmittance 199
+    0.105,                    !- Front Reflectance 199
+    0.251,                    !- Back Reflectance 199
+    1.295,                    !- Wavelength 200
+    0,                        !- Transmittance 200
+    0.109,                    !- Front Reflectance 200
+    0.251,                    !- Back Reflectance 200
+    1.3,                      !- Wavelength 201
+    0,                        !- Transmittance 201
+    0.113,                    !- Front Reflectance 201
+    0.251,                    !- Back Reflectance 201
+    1.305,                    !- Wavelength 202
+    0,                        !- Transmittance 202
+    0.117,                    !- Front Reflectance 202
+    0.25,                     !- Back Reflectance 202
+    1.31,                     !- Wavelength 203
+    0,                        !- Transmittance 203
+    0.121,                    !- Front Reflectance 203
+    0.249,                    !- Back Reflectance 203
+    1.315,                    !- Wavelength 204
+    0,                        !- Transmittance 204
+    0.126,                    !- Front Reflectance 204
+    0.249,                    !- Back Reflectance 204
+    1.32,                     !- Wavelength 205
+    0,                        !- Transmittance 205
+    0.131,                    !- Front Reflectance 205
+    0.249,                    !- Back Reflectance 205
+    1.325,                    !- Wavelength 206
+    0,                        !- Transmittance 206
+    0.136,                    !- Front Reflectance 206
+    0.248,                    !- Back Reflectance 206
+    1.33,                     !- Wavelength 207
+    0,                        !- Transmittance 207
+    0.141,                    !- Front Reflectance 207
+    0.248,                    !- Back Reflectance 207
+    1.335,                    !- Wavelength 208
+    0,                        !- Transmittance 208
+    0.146,                    !- Front Reflectance 208
+    0.248,                    !- Back Reflectance 208
+    1.34,                     !- Wavelength 209
+    0,                        !- Transmittance 209
+    0.15,                     !- Front Reflectance 209
+    0.248,                    !- Back Reflectance 209
+    1.345,                    !- Wavelength 210
+    0,                        !- Transmittance 210
+    0.155,                    !- Front Reflectance 210
+    0.249,                    !- Back Reflectance 210
+    1.35,                     !- Wavelength 211
+    0,                        !- Transmittance 211
+    0.159,                    !- Front Reflectance 211
+    0.249,                    !- Back Reflectance 211
+    1.355,                    !- Wavelength 212
+    0,                        !- Transmittance 212
+    0.163,                    !- Front Reflectance 212
+    0.249,                    !- Back Reflectance 212
+    1.36,                     !- Wavelength 213
+    0,                        !- Transmittance 213
+    0.166,                    !- Front Reflectance 213
+    0.249,                    !- Back Reflectance 213
+    1.365,                    !- Wavelength 214
+    0,                        !- Transmittance 214
+    0.168,                    !- Front Reflectance 214
+    0.249,                    !- Back Reflectance 214
+    1.37,                     !- Wavelength 215
+    0,                        !- Transmittance 215
+    0.17,                     !- Front Reflectance 215
+    0.25,                     !- Back Reflectance 215
+    1.375,                    !- Wavelength 216
+    0,                        !- Transmittance 216
+    0.172,                    !- Front Reflectance 216
+    0.25,                     !- Back Reflectance 216
+    1.38,                     !- Wavelength 217
+    0,                        !- Transmittance 217
+    0.174,                    !- Front Reflectance 217
+    0.251,                    !- Back Reflectance 217
+    1.385,                    !- Wavelength 218
+    0,                        !- Transmittance 218
+    0.176,                    !- Front Reflectance 218
+    0.251,                    !- Back Reflectance 218
+    1.39,                     !- Wavelength 219
+    0,                        !- Transmittance 219
+    0.179,                    !- Front Reflectance 219
+    0.252,                    !- Back Reflectance 219
+    1.395,                    !- Wavelength 220
+    0,                        !- Transmittance 220
+    0.182,                    !- Front Reflectance 220
+    0.253,                    !- Back Reflectance 220
+    1.4,                      !- Wavelength 221
+    0,                        !- Transmittance 221
+    0.186,                    !- Front Reflectance 221
+    0.254,                    !- Back Reflectance 221
+    1.405,                    !- Wavelength 222
+    0,                        !- Transmittance 222
+    0.19,                     !- Front Reflectance 222
+    0.255,                    !- Back Reflectance 222
+    1.41,                     !- Wavelength 223
+    0,                        !- Transmittance 223
+    0.194,                    !- Front Reflectance 223
+    0.256,                    !- Back Reflectance 223
+    1.415,                    !- Wavelength 224
+    0,                        !- Transmittance 224
+    0.199,                    !- Front Reflectance 224
+    0.258,                    !- Back Reflectance 224
+    1.42,                     !- Wavelength 225
+    0,                        !- Transmittance 225
+    0.204,                    !- Front Reflectance 225
+    0.259,                    !- Back Reflectance 225
+    1.425,                    !- Wavelength 226
+    0,                        !- Transmittance 226
+    0.209,                    !- Front Reflectance 226
+    0.261,                    !- Back Reflectance 226
+    1.43,                     !- Wavelength 227
+    0,                        !- Transmittance 227
+    0.216,                    !- Front Reflectance 227
+    0.262,                    !- Back Reflectance 227
+    1.435,                    !- Wavelength 228
+    0,                        !- Transmittance 228
+    0.222,                    !- Front Reflectance 228
+    0.264,                    !- Back Reflectance 228
+    1.44,                     !- Wavelength 229
+    0,                        !- Transmittance 229
+    0.23,                     !- Front Reflectance 229
+    0.266,                    !- Back Reflectance 229
+    1.445,                    !- Wavelength 230
+    0,                        !- Transmittance 230
+    0.237,                    !- Front Reflectance 230
+    0.269,                    !- Back Reflectance 230
+    1.45,                     !- Wavelength 231
+    0,                        !- Transmittance 231
+    0.244,                    !- Front Reflectance 231
+    0.27,                     !- Back Reflectance 231
+    1.455,                    !- Wavelength 232
+    0,                        !- Transmittance 232
+    0.251,                    !- Front Reflectance 232
+    0.272,                    !- Back Reflectance 232
+    1.46,                     !- Wavelength 233
+    0,                        !- Transmittance 233
+    0.258,                    !- Front Reflectance 233
+    0.274,                    !- Back Reflectance 233
+    1.465,                    !- Wavelength 234
+    0,                        !- Transmittance 234
+    0.265,                    !- Front Reflectance 234
+    0.276,                    !- Back Reflectance 234
+    1.47,                     !- Wavelength 235
+    0,                        !- Transmittance 235
+    0.27,                     !- Front Reflectance 235
+    0.279,                    !- Back Reflectance 235
+    1.475,                    !- Wavelength 236
+    0,                        !- Transmittance 236
+    0.276,                    !- Front Reflectance 236
+    0.281,                    !- Back Reflectance 236
+    1.48,                     !- Wavelength 237
+    0,                        !- Transmittance 237
+    0.282,                    !- Front Reflectance 237
+    0.284,                    !- Back Reflectance 237
+    1.485,                    !- Wavelength 238
+    0,                        !- Transmittance 238
+    0.287,                    !- Front Reflectance 238
+    0.287,                    !- Back Reflectance 238
+    1.49,                     !- Wavelength 239
+    0,                        !- Transmittance 239
+    0.292,                    !- Front Reflectance 239
+    0.289,                    !- Back Reflectance 239
+    1.495,                    !- Wavelength 240
+    0,                        !- Transmittance 240
+    0.296,                    !- Front Reflectance 240
+    0.292,                    !- Back Reflectance 240
+    1.5,                      !- Wavelength 241
+    0,                        !- Transmittance 241
+    0.301,                    !- Front Reflectance 241
+    0.295,                    !- Back Reflectance 241
+    1.505,                    !- Wavelength 242
+    0,                        !- Transmittance 242
+    0.305,                    !- Front Reflectance 242
+    0.298,                    !- Back Reflectance 242
+    1.51,                     !- Wavelength 243
+    0,                        !- Transmittance 243
+    0.309,                    !- Front Reflectance 243
+    0.3,                      !- Back Reflectance 243
+    1.515,                    !- Wavelength 244
+    0,                        !- Transmittance 244
+    0.313,                    !- Front Reflectance 244
+    0.303,                    !- Back Reflectance 244
+    1.52,                     !- Wavelength 245
+    0,                        !- Transmittance 245
+    0.317,                    !- Front Reflectance 245
+    0.306,                    !- Back Reflectance 245
+    1.525,                    !- Wavelength 246
+    0,                        !- Transmittance 246
+    0.321,                    !- Front Reflectance 246
+    0.309,                    !- Back Reflectance 246
+    1.53,                     !- Wavelength 247
+    0,                        !- Transmittance 247
+    0.325,                    !- Front Reflectance 247
+    0.312,                    !- Back Reflectance 247
+    1.535,                    !- Wavelength 248
+    0,                        !- Transmittance 248
+    0.328,                    !- Front Reflectance 248
+    0.316,                    !- Back Reflectance 248
+    1.54,                     !- Wavelength 249
+    0,                        !- Transmittance 249
+    0.332,                    !- Front Reflectance 249
+    0.319,                    !- Back Reflectance 249
+    1.545,                    !- Wavelength 250
+    0,                        !- Transmittance 250
+    0.336,                    !- Front Reflectance 250
+    0.322,                    !- Back Reflectance 250
+    1.55,                     !- Wavelength 251
+    0,                        !- Transmittance 251
+    0.34,                     !- Front Reflectance 251
+    0.326,                    !- Back Reflectance 251
+    1.555,                    !- Wavelength 252
+    0,                        !- Transmittance 252
+    0.344,                    !- Front Reflectance 252
+    0.329,                    !- Back Reflectance 252
+    1.56,                     !- Wavelength 253
+    0,                        !- Transmittance 253
+    0.348,                    !- Front Reflectance 253
+    0.332,                    !- Back Reflectance 253
+    1.565,                    !- Wavelength 254
+    0,                        !- Transmittance 254
+    0.351,                    !- Front Reflectance 254
+    0.336,                    !- Back Reflectance 254
+    1.57,                     !- Wavelength 255
+    0,                        !- Transmittance 255
+    0.354,                    !- Front Reflectance 255
+    0.339,                    !- Back Reflectance 255
+    1.575,                    !- Wavelength 256
+    0,                        !- Transmittance 256
+    0.356,                    !- Front Reflectance 256
+    0.342,                    !- Back Reflectance 256
+    1.58,                     !- Wavelength 257
+    0,                        !- Transmittance 257
+    0.359,                    !- Front Reflectance 257
+    0.346,                    !- Back Reflectance 257
+    1.585,                    !- Wavelength 258
+    0,                        !- Transmittance 258
+    0.361,                    !- Front Reflectance 258
+    0.349,                    !- Back Reflectance 258
+    1.59,                     !- Wavelength 259
+    0,                        !- Transmittance 259
+    0.363,                    !- Front Reflectance 259
+    0.353,                    !- Back Reflectance 259
+    1.595,                    !- Wavelength 260
+    0,                        !- Transmittance 260
+    0.364,                    !- Front Reflectance 260
+    0.356,                    !- Back Reflectance 260
+    1.6,                      !- Wavelength 261
+    0,                        !- Transmittance 261
+    0.365,                    !- Front Reflectance 261
+    0.36,                     !- Back Reflectance 261
+    1.605,                    !- Wavelength 262
+    0,                        !- Transmittance 262
+    0.366,                    !- Front Reflectance 262
+    0.364,                    !- Back Reflectance 262
+    1.61,                     !- Wavelength 263
+    0,                        !- Transmittance 263
+    0.366,                    !- Front Reflectance 263
+    0.367,                    !- Back Reflectance 263
+    1.615,                    !- Wavelength 264
+    0,                        !- Transmittance 264
+    0.367,                    !- Front Reflectance 264
+    0.371,                    !- Back Reflectance 264
+    1.62,                     !- Wavelength 265
+    0,                        !- Transmittance 265
+    0.367,                    !- Front Reflectance 265
+    0.374,                    !- Back Reflectance 265
+    1.625,                    !- Wavelength 266
+    0,                        !- Transmittance 266
+    0.367,                    !- Front Reflectance 266
+    0.377,                    !- Back Reflectance 266
+    1.63,                     !- Wavelength 267
+    0,                        !- Transmittance 267
+    0.367,                    !- Front Reflectance 267
+    0.381,                    !- Back Reflectance 267
+    1.635,                    !- Wavelength 268
+    0,                        !- Transmittance 268
+    0.367,                    !- Front Reflectance 268
+    0.385,                    !- Back Reflectance 268
+    1.64,                     !- Wavelength 269
+    0,                        !- Transmittance 269
+    0.367,                    !- Front Reflectance 269
+    0.388,                    !- Back Reflectance 269
+    1.645,                    !- Wavelength 270
+    0,                        !- Transmittance 270
+    0.365,                    !- Front Reflectance 270
+    0.392,                    !- Back Reflectance 270
+    1.65,                     !- Wavelength 271
+    0,                        !- Transmittance 271
+    0.362,                    !- Front Reflectance 271
+    0.395,                    !- Back Reflectance 271
+    1.655,                    !- Wavelength 272
+    0,                        !- Transmittance 272
+    0.357,                    !- Front Reflectance 272
+    0.399,                    !- Back Reflectance 272
+    1.66,                     !- Wavelength 273
+    0,                        !- Transmittance 273
+    0.35,                     !- Front Reflectance 273
+    0.403,                    !- Back Reflectance 273
+    1.665,                    !- Wavelength 274
+    0,                        !- Transmittance 274
+    0.341,                    !- Front Reflectance 274
+    0.407,                    !- Back Reflectance 274
+    1.67,                     !- Wavelength 275
+    0,                        !- Transmittance 275
+    0.329,                    !- Front Reflectance 275
+    0.41,                     !- Back Reflectance 275
+    1.675,                    !- Wavelength 276
+    0,                        !- Transmittance 276
+    0.314,                    !- Front Reflectance 276
+    0.414,                    !- Back Reflectance 276
+    1.68,                     !- Wavelength 277
+    0,                        !- Transmittance 277
+    0.297,                    !- Front Reflectance 277
+    0.417,                    !- Back Reflectance 277
+    1.685,                    !- Wavelength 278
+    0,                        !- Transmittance 278
+    0.275,                    !- Front Reflectance 278
+    0.421,                    !- Back Reflectance 278
+    1.69,                     !- Wavelength 279
+    0,                        !- Transmittance 279
+    0.251,                    !- Front Reflectance 279
+    0.424,                    !- Back Reflectance 279
+    1.695,                    !- Wavelength 280
+    0,                        !- Transmittance 280
+    0.223,                    !- Front Reflectance 280
+    0.428,                    !- Back Reflectance 280
+    1.7,                      !- Wavelength 281
+    0,                        !- Transmittance 281
+    0.195,                    !- Front Reflectance 281
+    0.431,                    !- Back Reflectance 281
+    1.705,                    !- Wavelength 282
+    0,                        !- Transmittance 282
+    0.167,                    !- Front Reflectance 282
+    0.435,                    !- Back Reflectance 282
+    1.71,                     !- Wavelength 283
+    0,                        !- Transmittance 283
+    0.145,                    !- Front Reflectance 283
+    0.438,                    !- Back Reflectance 283
+    1.715,                    !- Wavelength 284
+    0,                        !- Transmittance 284
+    0.129,                    !- Front Reflectance 284
+    0.441,                    !- Back Reflectance 284
+    1.72,                     !- Wavelength 285
+    0,                        !- Transmittance 285
+    0.121,                    !- Front Reflectance 285
+    0.444,                    !- Back Reflectance 285
+    1.725,                    !- Wavelength 286
+    0,                        !- Transmittance 286
+    0.121,                    !- Front Reflectance 286
+    0.447,                    !- Back Reflectance 286
+    1.73,                     !- Wavelength 287
+    0,                        !- Transmittance 287
+    0.127,                    !- Front Reflectance 287
+    0.451,                    !- Back Reflectance 287
+    1.735,                    !- Wavelength 288
+    0,                        !- Transmittance 288
+    0.135,                    !- Front Reflectance 288
+    0.454,                    !- Back Reflectance 288
+    1.74,                     !- Wavelength 289
+    0,                        !- Transmittance 289
+    0.143,                    !- Front Reflectance 289
+    0.457,                    !- Back Reflectance 289
+    1.745,                    !- Wavelength 290
+    0,                        !- Transmittance 290
+    0.15,                     !- Front Reflectance 290
+    0.46,                     !- Back Reflectance 290
+    1.75,                     !- Wavelength 291
+    0,                        !- Transmittance 291
+    0.156,                    !- Front Reflectance 291
+    0.464,                    !- Back Reflectance 291
+    1.755,                    !- Wavelength 292
+    0,                        !- Transmittance 292
+    0.161,                    !- Front Reflectance 292
+    0.467,                    !- Back Reflectance 292
+    1.76,                     !- Wavelength 293
+    0,                        !- Transmittance 293
+    0.166,                    !- Front Reflectance 293
+    0.47,                     !- Back Reflectance 293
+    1.765,                    !- Wavelength 294
+    0,                        !- Transmittance 294
+    0.173,                    !- Front Reflectance 294
+    0.473,                    !- Back Reflectance 294
+    1.77,                     !- Wavelength 295
+    0,                        !- Transmittance 295
+    0.181,                    !- Front Reflectance 295
+    0.476,                    !- Back Reflectance 295
+    1.775,                    !- Wavelength 296
+    0,                        !- Transmittance 296
+    0.189,                    !- Front Reflectance 296
+    0.479,                    !- Back Reflectance 296
+    1.78,                     !- Wavelength 297
+    0,                        !- Transmittance 297
+    0.196,                    !- Front Reflectance 297
+    0.481,                    !- Back Reflectance 297
+    1.785,                    !- Wavelength 298
+    0,                        !- Transmittance 298
+    0.202,                    !- Front Reflectance 298
+    0.484,                    !- Back Reflectance 298
+    1.79,                     !- Wavelength 299
+    0,                        !- Transmittance 299
+    0.206,                    !- Front Reflectance 299
+    0.487,                    !- Back Reflectance 299
+    1.795,                    !- Wavelength 300
+    0,                        !- Transmittance 300
+    0.208,                    !- Front Reflectance 300
+    0.489,                    !- Back Reflectance 300
+    1.8,                      !- Wavelength 301
+    0,                        !- Transmittance 301
+    0.208,                    !- Front Reflectance 301
+    0.492,                    !- Back Reflectance 301
+    1.805,                    !- Wavelength 302
+    0,                        !- Transmittance 302
+    0.209,                    !- Front Reflectance 302
+    0.495,                    !- Back Reflectance 302
+    1.81,                     !- Wavelength 303
+    0,                        !- Transmittance 303
+    0.211,                    !- Front Reflectance 303
+    0.497,                    !- Back Reflectance 303
+    1.815,                    !- Wavelength 304
+    0,                        !- Transmittance 304
+    0.213,                    !- Front Reflectance 304
+    0.5,                      !- Back Reflectance 304
+    1.82,                     !- Wavelength 305
+    0,                        !- Transmittance 305
+    0.216,                    !- Front Reflectance 305
+    0.502,                    !- Back Reflectance 305
+    1.825,                    !- Wavelength 306
+    0,                        !- Transmittance 306
+    0.22,                     !- Front Reflectance 306
+    0.505,                    !- Back Reflectance 306
+    1.83,                     !- Wavelength 307
+    0,                        !- Transmittance 307
+    0.225,                    !- Front Reflectance 307
+    0.507,                    !- Back Reflectance 307
+    1.835,                    !- Wavelength 308
+    0,                        !- Transmittance 308
+    0.23,                     !- Front Reflectance 308
+    0.51,                     !- Back Reflectance 308
+    1.84,                     !- Wavelength 309
+    0,                        !- Transmittance 309
+    0.235,                    !- Front Reflectance 309
+    0.512,                    !- Back Reflectance 309
+    1.845,                    !- Wavelength 310
+    0,                        !- Transmittance 310
+    0.239,                    !- Front Reflectance 310
+    0.515,                    !- Back Reflectance 310
+    1.85,                     !- Wavelength 311
+    0,                        !- Transmittance 311
+    0.243,                    !- Front Reflectance 311
+    0.518,                    !- Back Reflectance 311
+    1.855,                    !- Wavelength 312
+    0,                        !- Transmittance 312
+    0.247,                    !- Front Reflectance 312
+    0.52,                     !- Back Reflectance 312
+    1.86,                     !- Wavelength 313
+    0,                        !- Transmittance 313
+    0.25,                     !- Front Reflectance 313
+    0.522,                    !- Back Reflectance 313
+    1.865,                    !- Wavelength 314
+    0,                        !- Transmittance 314
+    0.252,                    !- Front Reflectance 314
+    0.525,                    !- Back Reflectance 314
+    1.87,                     !- Wavelength 315
+    0,                        !- Transmittance 315
+    0.253,                    !- Front Reflectance 315
+    0.527,                    !- Back Reflectance 315
+    1.875,                    !- Wavelength 316
+    0,                        !- Transmittance 316
+    0.254,                    !- Front Reflectance 316
+    0.53,                     !- Back Reflectance 316
+    1.88,                     !- Wavelength 317
+    0,                        !- Transmittance 317
+    0.254,                    !- Front Reflectance 317
+    0.532,                    !- Back Reflectance 317
+    1.885,                    !- Wavelength 318
+    0,                        !- Transmittance 318
+    0.254,                    !- Front Reflectance 318
+    0.535,                    !- Back Reflectance 318
+    1.89,                     !- Wavelength 319
+    0,                        !- Transmittance 319
+    0.254,                    !- Front Reflectance 319
+    0.538,                    !- Back Reflectance 319
+    1.895,                    !- Wavelength 320
+    0,                        !- Transmittance 320
+    0.254,                    !- Front Reflectance 320
+    0.541,                    !- Back Reflectance 320
+    1.9,                      !- Wavelength 321
+    0,                        !- Transmittance 321
+    0.254,                    !- Front Reflectance 321
+    0.543,                    !- Back Reflectance 321
+    1.905,                    !- Wavelength 322
+    0,                        !- Transmittance 322
+    0.254,                    !- Front Reflectance 322
+    0.545,                    !- Back Reflectance 322
+    1.91,                     !- Wavelength 323
+    0,                        !- Transmittance 323
+    0.253,                    !- Front Reflectance 323
+    0.548,                    !- Back Reflectance 323
+    1.915,                    !- Wavelength 324
+    0,                        !- Transmittance 324
+    0.253,                    !- Front Reflectance 324
+    0.55,                     !- Back Reflectance 324
+    1.92,                     !- Wavelength 325
+    0,                        !- Transmittance 325
+    0.253,                    !- Front Reflectance 325
+    0.552,                    !- Back Reflectance 325
+    1.925,                    !- Wavelength 326
+    0,                        !- Transmittance 326
+    0.252,                    !- Front Reflectance 326
+    0.555,                    !- Back Reflectance 326
+    1.93,                     !- Wavelength 327
+    0,                        !- Transmittance 327
+    0.252,                    !- Front Reflectance 327
+    0.557,                    !- Back Reflectance 327
+    1.935,                    !- Wavelength 328
+    0,                        !- Transmittance 328
+    0.251,                    !- Front Reflectance 328
+    0.559,                    !- Back Reflectance 328
+    1.94,                     !- Wavelength 329
+    0,                        !- Transmittance 329
+    0.251,                    !- Front Reflectance 329
+    0.562,                    !- Back Reflectance 329
+    1.945,                    !- Wavelength 330
+    0,                        !- Transmittance 330
+    0.25,                     !- Front Reflectance 330
+    0.564,                    !- Back Reflectance 330
+    1.95,                     !- Wavelength 331
+    0,                        !- Transmittance 331
+    0.25,                     !- Front Reflectance 331
+    0.566,                    !- Back Reflectance 331
+    1.955,                    !- Wavelength 332
+    0,                        !- Transmittance 332
+    0.25,                     !- Front Reflectance 332
+    0.567,                    !- Back Reflectance 332
+    1.96,                     !- Wavelength 333
+    0,                        !- Transmittance 333
+    0.25,                     !- Front Reflectance 333
+    0.568,                    !- Back Reflectance 333
+    1.965,                    !- Wavelength 334
+    0,                        !- Transmittance 334
+    0.249,                    !- Front Reflectance 334
+    0.57,                     !- Back Reflectance 334
+    1.97,                     !- Wavelength 335
+    0,                        !- Transmittance 335
+    0.248,                    !- Front Reflectance 335
+    0.571,                    !- Back Reflectance 335
+    1.975,                    !- Wavelength 336
+    0,                        !- Transmittance 336
+    0.248,                    !- Front Reflectance 336
+    0.573,                    !- Back Reflectance 336
+    1.98,                     !- Wavelength 337
+    0,                        !- Transmittance 337
+    0.247,                    !- Front Reflectance 337
+    0.575,                    !- Back Reflectance 337
+    1.985,                    !- Wavelength 338
+    0,                        !- Transmittance 338
+    0.246,                    !- Front Reflectance 338
+    0.577,                    !- Back Reflectance 338
+    1.99,                     !- Wavelength 339
+    0,                        !- Transmittance 339
+    0.246,                    !- Front Reflectance 339
+    0.579,                    !- Back Reflectance 339
+    1.995,                    !- Wavelength 340
+    0,                        !- Transmittance 340
+    0.245,                    !- Front Reflectance 340
+    0.58,                     !- Back Reflectance 340
+    2,                        !- Wavelength 341
+    0,                        !- Transmittance 341
+    0.246,                    !- Front Reflectance 341
+    0.582,                    !- Back Reflectance 341
+    2.005,                    !- Wavelength 342
+    0,                        !- Transmittance 342
+    0.246,                    !- Front Reflectance 342
+    0.583,                    !- Back Reflectance 342
+    2.01,                     !- Wavelength 343
+    0,                        !- Transmittance 343
+    0.246,                    !- Front Reflectance 343
+    0.585,                    !- Back Reflectance 343
+    2.015,                    !- Wavelength 344
+    0,                        !- Transmittance 344
+    0.246,                    !- Front Reflectance 344
+    0.586,                    !- Back Reflectance 344
+    2.02,                     !- Wavelength 345
+    0,                        !- Transmittance 345
+    0.246,                    !- Front Reflectance 345
+    0.588,                    !- Back Reflectance 345
+    2.025,                    !- Wavelength 346
+    0,                        !- Transmittance 346
+    0.247,                    !- Front Reflectance 346
+    0.59,                     !- Back Reflectance 346
+    2.03,                     !- Wavelength 347
+    0,                        !- Transmittance 347
+    0.247,                    !- Front Reflectance 347
+    0.591,                    !- Back Reflectance 347
+    2.035,                    !- Wavelength 348
+    0,                        !- Transmittance 348
+    0.248,                    !- Front Reflectance 348
+    0.593,                    !- Back Reflectance 348
+    2.04,                     !- Wavelength 349
+    0,                        !- Transmittance 349
+    0.249,                    !- Front Reflectance 349
+    0.594,                    !- Back Reflectance 349
+    2.045,                    !- Wavelength 350
+    0,                        !- Transmittance 350
+    0.25,                     !- Front Reflectance 350
+    0.596,                    !- Back Reflectance 350
+    2.05,                     !- Wavelength 351
+    0,                        !- Transmittance 351
+    0.252,                    !- Front Reflectance 351
+    0.598,                    !- Back Reflectance 351
+    2.055,                    !- Wavelength 352
+    0,                        !- Transmittance 352
+    0.253,                    !- Front Reflectance 352
+    0.599,                    !- Back Reflectance 352
+    2.06,                     !- Wavelength 353
+    0,                        !- Transmittance 353
+    0.254,                    !- Front Reflectance 353
+    0.601,                    !- Back Reflectance 353
+    2.065,                    !- Wavelength 354
+    0,                        !- Transmittance 354
+    0.255,                    !- Front Reflectance 354
+    0.603,                    !- Back Reflectance 354
+    2.07,                     !- Wavelength 355
+    0,                        !- Transmittance 355
+    0.257,                    !- Front Reflectance 355
+    0.604,                    !- Back Reflectance 355
+    2.075,                    !- Wavelength 356
+    0,                        !- Transmittance 356
+    0.258,                    !- Front Reflectance 356
+    0.606,                    !- Back Reflectance 356
+    2.08,                     !- Wavelength 357
+    0,                        !- Transmittance 357
+    0.259,                    !- Front Reflectance 357
+    0.608,                    !- Back Reflectance 357
+    2.085,                    !- Wavelength 358
+    0,                        !- Transmittance 358
+    0.26,                     !- Front Reflectance 358
+    0.609,                    !- Back Reflectance 358
+    2.09,                     !- Wavelength 359
+    0,                        !- Transmittance 359
+    0.26,                     !- Front Reflectance 359
+    0.611,                    !- Back Reflectance 359
+    2.095,                    !- Wavelength 360
+    0,                        !- Transmittance 360
+    0.259,                    !- Front Reflectance 360
+    0.612,                    !- Back Reflectance 360
+    2.1,                      !- Wavelength 361
+    0,                        !- Transmittance 361
+    0.258,                    !- Front Reflectance 361
+    0.614,                    !- Back Reflectance 361
+    2.105,                    !- Wavelength 362
+    0,                        !- Transmittance 362
+    0.257,                    !- Front Reflectance 362
+    0.615,                    !- Back Reflectance 362
+    2.11,                     !- Wavelength 363
+    0,                        !- Transmittance 363
+    0.255,                    !- Front Reflectance 363
+    0.617,                    !- Back Reflectance 363
+    2.115,                    !- Wavelength 364
+    0,                        !- Transmittance 364
+    0.254,                    !- Front Reflectance 364
+    0.618,                    !- Back Reflectance 364
+    2.12,                     !- Wavelength 365
+    0,                        !- Transmittance 365
+    0.252,                    !- Front Reflectance 365
+    0.62,                     !- Back Reflectance 365
+    2.125,                    !- Wavelength 366
+    0,                        !- Transmittance 366
+    0.25,                     !- Front Reflectance 366
+    0.622,                    !- Back Reflectance 366
+    2.13,                     !- Wavelength 367
+    0,                        !- Transmittance 367
+    0.248,                    !- Front Reflectance 367
+    0.623,                    !- Back Reflectance 367
+    2.135,                    !- Wavelength 368
+    0,                        !- Transmittance 368
+    0.245,                    !- Front Reflectance 368
+    0.625,                    !- Back Reflectance 368
+    2.14,                     !- Wavelength 369
+    0,                        !- Transmittance 369
+    0.242,                    !- Front Reflectance 369
+    0.626,                    !- Back Reflectance 369
+    2.145,                    !- Wavelength 370
+    0,                        !- Transmittance 370
+    0.239,                    !- Front Reflectance 370
+    0.628,                    !- Back Reflectance 370
+    2.15,                     !- Wavelength 371
+    0,                        !- Transmittance 371
+    0.235,                    !- Front Reflectance 371
+    0.629,                    !- Back Reflectance 371
+    2.155,                    !- Wavelength 372
+    0,                        !- Transmittance 372
+    0.232,                    !- Front Reflectance 372
+    0.63,                     !- Back Reflectance 372
+    2.16,                     !- Wavelength 373
+    0,                        !- Transmittance 373
+    0.228,                    !- Front Reflectance 373
+    0.632,                    !- Back Reflectance 373
+    2.165,                    !- Wavelength 374
+    0,                        !- Transmittance 374
+    0.225,                    !- Front Reflectance 374
+    0.634,                    !- Back Reflectance 374
+    2.17,                     !- Wavelength 375
+    0,                        !- Transmittance 375
+    0.222,                    !- Front Reflectance 375
+    0.635,                    !- Back Reflectance 375
+    2.175,                    !- Wavelength 376
+    0,                        !- Transmittance 376
+    0.218,                    !- Front Reflectance 376
+    0.636,                    !- Back Reflectance 376
+    2.18,                     !- Wavelength 377
+    0,                        !- Transmittance 377
+    0.216,                    !- Front Reflectance 377
+    0.638,                    !- Back Reflectance 377
+    2.185,                    !- Wavelength 378
+    0,                        !- Transmittance 378
+    0.212,                    !- Front Reflectance 378
+    0.64,                     !- Back Reflectance 378
+    2.19,                     !- Wavelength 379
+    0,                        !- Transmittance 379
+    0.207,                    !- Front Reflectance 379
+    0.642,                    !- Back Reflectance 379
+    2.195,                    !- Wavelength 380
+    0,                        !- Transmittance 380
+    0.203,                    !- Front Reflectance 380
+    0.645,                    !- Back Reflectance 380
+    2.2,                      !- Wavelength 381
+    0,                        !- Transmittance 381
+    0.198,                    !- Front Reflectance 381
+    0.647,                    !- Back Reflectance 381
+    2.205,                    !- Wavelength 382
+    0,                        !- Transmittance 382
+    0.192,                    !- Front Reflectance 382
+    0.649,                    !- Back Reflectance 382
+    2.21,                     !- Wavelength 383
+    0,                        !- Transmittance 383
+    0.185,                    !- Front Reflectance 383
+    0.651,                    !- Back Reflectance 383
+    2.215,                    !- Wavelength 384
+    0,                        !- Transmittance 384
+    0.178,                    !- Front Reflectance 384
+    0.652,                    !- Back Reflectance 384
+    2.22,                     !- Wavelength 385
+    0,                        !- Transmittance 385
+    0.169,                    !- Front Reflectance 385
+    0.653,                    !- Back Reflectance 385
+    2.225,                    !- Wavelength 386
+    0,                        !- Transmittance 386
+    0.16,                     !- Front Reflectance 386
+    0.654,                    !- Back Reflectance 386
+    2.23,                     !- Wavelength 387
+    0,                        !- Transmittance 387
+    0.15,                     !- Front Reflectance 387
+    0.655,                    !- Back Reflectance 387
+    2.235,                    !- Wavelength 388
+    0,                        !- Transmittance 388
+    0.138,                    !- Front Reflectance 388
+    0.657,                    !- Back Reflectance 388
+    2.24,                     !- Wavelength 389
+    0,                        !- Transmittance 389
+    0.126,                    !- Front Reflectance 389
+    0.659,                    !- Back Reflectance 389
+    2.245,                    !- Wavelength 390
+    0,                        !- Transmittance 390
+    0.114,                    !- Front Reflectance 390
+    0.66,                     !- Back Reflectance 390
+    2.25,                     !- Wavelength 391
+    0,                        !- Transmittance 391
+    0.102,                    !- Front Reflectance 391
+    0.662,                    !- Back Reflectance 391
+    2.255,                    !- Wavelength 392
+    0,                        !- Transmittance 392
+    0.09,                     !- Front Reflectance 392
+    0.662,                    !- Back Reflectance 392
+    2.26,                     !- Wavelength 393
+    0,                        !- Transmittance 393
+    0.079,                    !- Front Reflectance 393
+    0.662,                    !- Back Reflectance 393
+    2.265,                    !- Wavelength 394
+    0,                        !- Transmittance 394
+    0.07,                     !- Front Reflectance 394
+    0.662,                    !- Back Reflectance 394
+    2.27,                     !- Wavelength 395
+    0,                        !- Transmittance 395
+    0.062,                    !- Front Reflectance 395
+    0.663,                    !- Back Reflectance 395
+    2.275,                    !- Wavelength 396
+    0,                        !- Transmittance 396
+    0.057,                    !- Front Reflectance 396
+    0.664,                    !- Back Reflectance 396
+    2.28,                     !- Wavelength 397
+    0,                        !- Transmittance 397
+    0.054,                    !- Front Reflectance 397
+    0.664,                    !- Back Reflectance 397
+    2.285,                    !- Wavelength 398
+    0,                        !- Transmittance 398
+    0.051,                    !- Front Reflectance 398
+    0.665,                    !- Back Reflectance 398
+    2.29,                     !- Wavelength 399
+    0,                        !- Transmittance 399
+    0.049,                    !- Front Reflectance 399
+    0.668,                    !- Back Reflectance 399
+    2.295,                    !- Wavelength 400
+    0,                        !- Transmittance 400
+    0.048,                    !- Front Reflectance 400
+    0.669,                    !- Back Reflectance 400
+    2.3,                      !- Wavelength 401
+    0,                        !- Transmittance 401
+    0.047,                    !- Front Reflectance 401
+    0.67,                     !- Back Reflectance 401
+    2.305,                    !- Wavelength 402
+    0,                        !- Transmittance 402
+    0.046,                    !- Front Reflectance 402
+    0.671,                    !- Back Reflectance 402
+    2.31,                     !- Wavelength 403
+    0,                        !- Transmittance 403
+    0.046,                    !- Front Reflectance 403
+    0.671,                    !- Back Reflectance 403
+    2.315,                    !- Wavelength 404
+    0,                        !- Transmittance 404
+    0.046,                    !- Front Reflectance 404
+    0.672,                    !- Back Reflectance 404
+    2.32,                     !- Wavelength 405
+    0,                        !- Transmittance 405
+    0.046,                    !- Front Reflectance 405
+    0.674,                    !- Back Reflectance 405
+    2.325,                    !- Wavelength 406
+    0,                        !- Transmittance 406
+    0.045,                    !- Front Reflectance 406
+    0.675,                    !- Back Reflectance 406
+    2.33,                     !- Wavelength 407
+    0,                        !- Transmittance 407
+    0.045,                    !- Front Reflectance 407
+    0.677,                    !- Back Reflectance 407
+    2.335,                    !- Wavelength 408
+    0,                        !- Transmittance 408
+    0.044,                    !- Front Reflectance 408
+    0.677,                    !- Back Reflectance 408
+    2.34,                     !- Wavelength 409
+    0,                        !- Transmittance 409
+    0.043,                    !- Front Reflectance 409
+    0.679,                    !- Back Reflectance 409
+    2.345,                    !- Wavelength 410
+    0,                        !- Transmittance 410
+    0.043,                    !- Front Reflectance 410
+    0.68,                     !- Back Reflectance 410
+    2.35,                     !- Wavelength 411
+    0,                        !- Transmittance 411
+    0.043,                    !- Front Reflectance 411
+    0.682,                    !- Back Reflectance 411
+    2.355,                    !- Wavelength 412
+    0,                        !- Transmittance 412
+    0.044,                    !- Front Reflectance 412
+    0.684,                    !- Back Reflectance 412
+    2.36,                     !- Wavelength 413
+    0,                        !- Transmittance 413
+    0.044,                    !- Front Reflectance 413
+    0.685,                    !- Back Reflectance 413
+    2.365,                    !- Wavelength 414
+    0,                        !- Transmittance 414
+    0.044,                    !- Front Reflectance 414
+    0.686,                    !- Back Reflectance 414
+    2.37,                     !- Wavelength 415
+    0,                        !- Transmittance 415
+    0.044,                    !- Front Reflectance 415
+    0.687,                    !- Back Reflectance 415
+    2.375,                    !- Wavelength 416
+    0,                        !- Transmittance 416
+    0.043,                    !- Front Reflectance 416
+    0.688,                    !- Back Reflectance 416
+    2.38,                     !- Wavelength 417
+    0,                        !- Transmittance 417
+    0.044,                    !- Front Reflectance 417
+    0.69,                     !- Back Reflectance 417
+    2.385,                    !- Wavelength 418
+    0,                        !- Transmittance 418
+    0.044,                    !- Front Reflectance 418
+    0.69,                     !- Back Reflectance 418
+    2.39,                     !- Wavelength 419
+    0,                        !- Transmittance 419
+    0.043,                    !- Front Reflectance 419
+    0.693,                    !- Back Reflectance 419
+    2.395,                    !- Wavelength 420
+    0,                        !- Transmittance 420
+    0.043,                    !- Front Reflectance 420
+    0.693,                    !- Back Reflectance 420
+    2.4,                      !- Wavelength 421
+    0,                        !- Transmittance 421
+    0.042,                    !- Front Reflectance 421
+    0.694,                    !- Back Reflectance 421
+    2.405,                    !- Wavelength 422
+    0,                        !- Transmittance 422
+    0.043,                    !- Front Reflectance 422
+    0.693,                    !- Back Reflectance 422
+    2.41,                     !- Wavelength 423
+    0,                        !- Transmittance 423
+    0.043,                    !- Front Reflectance 423
+    0.693,                    !- Back Reflectance 423
+    2.415,                    !- Wavelength 424
+    0,                        !- Transmittance 424
+    0.041,                    !- Front Reflectance 424
+    0.693,                    !- Back Reflectance 424
+    2.42,                     !- Wavelength 425
+    0,                        !- Transmittance 425
+    0.042,                    !- Front Reflectance 425
+    0.694,                    !- Back Reflectance 425
+    2.425,                    !- Wavelength 426
+    0,                        !- Transmittance 426
+    0.042,                    !- Front Reflectance 426
+    0.695,                    !- Back Reflectance 426
+    2.43,                     !- Wavelength 427
+    0,                        !- Transmittance 427
+    0.044,                    !- Front Reflectance 427
+    0.697,                    !- Back Reflectance 427
+    2.435,                    !- Wavelength 428
+    0,                        !- Transmittance 428
+    0.043,                    !- Front Reflectance 428
+    0.7,                      !- Back Reflectance 428
+    2.44,                     !- Wavelength 429
+    0,                        !- Transmittance 429
+    0.043,                    !- Front Reflectance 429
+    0.701,                    !- Back Reflectance 429
+    2.445,                    !- Wavelength 430
+    0,                        !- Transmittance 430
+    0.043,                    !- Front Reflectance 430
+    0.705,                    !- Back Reflectance 430
+    2.45,                     !- Wavelength 431
+    0,                        !- Transmittance 431
+    0.044,                    !- Front Reflectance 431
+    0.707,                    !- Back Reflectance 431
+    2.455,                    !- Wavelength 432
+    0,                        !- Transmittance 432
+    0.046,                    !- Front Reflectance 432
+    0.709,                    !- Back Reflectance 432
+    2.46,                     !- Wavelength 433
+    0,                        !- Transmittance 433
+    0.045,                    !- Front Reflectance 433
+    0.711,                    !- Back Reflectance 433
+    2.465,                    !- Wavelength 434
+    0,                        !- Transmittance 434
+    0.045,                    !- Front Reflectance 434
+    0.71,                     !- Back Reflectance 434
+    2.47,                     !- Wavelength 435
+    0,                        !- Transmittance 435
+    0.044,                    !- Front Reflectance 435
+    0.709,                    !- Back Reflectance 435
+    2.475,                    !- Wavelength 436
+    0.002,                    !- Transmittance 436
+    0.045,                    !- Front Reflectance 436
+    0.708,                    !- Back Reflectance 436
+    2.48,                     !- Wavelength 437
+    0.003,                    !- Transmittance 437
+    0.045,                    !- Front Reflectance 437
+    0.709,                    !- Back Reflectance 437
+    2.485,                    !- Wavelength 438
+    0.003,                    !- Transmittance 438
+    0.045,                    !- Front Reflectance 438
+    0.711,                    !- Back Reflectance 438
+    2.49,                     !- Wavelength 439
+    0.002,                    !- Transmittance 439
+    0.046,                    !- Front Reflectance 439
+    0.713,                    !- Back Reflectance 439
+    2.495,                    !- Wavelength 440
+    0.001,                    !- Transmittance 440
+    0.047,                    !- Front Reflectance 440
+    0.716,                    !- Back Reflectance 440
+    2.5,                      !- Wavelength 441
+    0.001,                    !- Transmittance 441
+    0.048,                    !- Front Reflectance 441
+    0.719;                    !- Back Reflectance 441
